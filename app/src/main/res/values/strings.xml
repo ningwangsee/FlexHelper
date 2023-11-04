@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">0909_bottom_nav2</string>
+    <string name="accessibility_service_label">AFRobot_Setting</string>
+    <string name="app_accessibility_description">AFRobot active auto grab blocks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
